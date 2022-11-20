@@ -1,0 +1,16 @@
+{
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "Comedy"
+    },
+    {
+      "id": 3,
+      "categoryName": "Horror"
+    },
+    {
+      "categoryName": "Carton",
+      "id": 4
+    }
+  ]
+}

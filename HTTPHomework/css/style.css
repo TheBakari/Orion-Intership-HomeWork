@@ -1,0 +1,24 @@
+#content-wrapper {
+  width: 50%;
+  margin: 0px auto;
+  text-align: center;
+}
+.form-group {
+  display: flex;
+  justify-content: center;
+}
+.form-group input,
+.form-group button {
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#categoryForm {
+  margin-top: 10px;
+}
+
+.display-none {
+  display: none;
+}
